@@ -377,7 +377,12 @@
 */
 }
 @media (max-width:600px){
-	
+	.header .logo_h h1 {
+		font-size: 19px;
+	}
+	.header .logo_h img {
+		max-width: 68px;
+	}
 }
 @media (max-width:575px){
 	.top_menu {
